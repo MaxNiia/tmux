@@ -324,9 +324,6 @@ main() {
   # status
   set status "on"
   set status-bg "${thm_bg}"
-  set status-justify "left"
-  set status-left-length "100"
-  set status-right-length "100"
 
   # messages
   set message-style "fg=${thm_cyan},bg=${thm_gray},align=centre"
